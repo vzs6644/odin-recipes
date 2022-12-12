@@ -1,8 +1,38 @@
+body {
+    background-image: url('./images/Charminar2.webp');
+    /* background-position: center; */
+}
+
+
 div {
     color: black;
     text-align: center;
 }
 
+
+
 .OL-RECIPES {
     list-style-position: inside;
 }
+
+#biryani {
+    background: orange;
+    color: white;
+    font-weight: bold;
+}
+
+#pathar-kar-ghost {
+    /* background: orange;
+    color: white; */
+    font-weight: bold;
+}
+
+#double-ka-meeta {
+    background: green;
+    color: white;
+    font-weight: bold;
+    
+}
+
+
+
